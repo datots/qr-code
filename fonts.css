@@ -1,0 +1,17 @@
+@font-face {
+    font-family:"qr-code";
+    src: url(/fonts/Roboto-Black.ttf);
+    font-weight: normal;
+    font-style:italic;
+}
+
+
+    h3{
+    font-family: "qr-code";
+    font-size: 30px;
+}
+
+p{
+    font-family: "qr-code";
+    font-size: 30px;
+}

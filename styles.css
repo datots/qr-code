@@ -1,0 +1,57 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+
+*{
+    background-color:brown;
+    box-sizing: border-box;
+}
+
+
+p{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 288px;
+    height: 288px;
+    left: 576px;
+    top: 168px;
+    border-radius: 20px;
+    display: block;
+    
+    
+}
+
+
+
+.card{
+    border: 5px solid #555;
+    margin-top: 152px;
+    margin-bottom: 151px;
+    margin-left: 420px;
+    margin-right: 560px;
+    padding-top: 16px;
+    padding-bottom: 185px;
+    padding-left: 16px;
+    padding-right: 16px;
+    width: 320px;
+    
+    
+}
+
+    
+
+
+body{
+
+    min-height: 100vh;
+}
+
